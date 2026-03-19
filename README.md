@@ -1,6 +1,6 @@
 # 👋 Hi, I'm Hemraj Bhatt  
 
-💻 *Cybersecurity Analyst | IAM Developer | Full-Stack Enthusiast*  
+💻 *Cybersecurity Analyst | IAM Developer | Application Security Engineer | VAPT Analyst*  
 🔐 Securing systems, building solutions, and bridging the gap between development & cybersecurity.  
 
 ---
